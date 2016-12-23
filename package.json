@@ -1,0 +1,24 @@
+{
+  "name": "eslint-config-ordinary",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "peerDependencies": {
+    "eslint-config-ordinary": "~1.0.0",
+    "eslint-config-standard": "~6.2.1",
+    "eslint-plugin-promise": "~3.4.0",
+    "eslint-plugin-standard": "~2.0.1"
+  },
+  "devDependencies": {
+    "eslint": "~3.12.2",
+    "eslint-config-standard": "~6.2.1",
+    "standard": "~8.6.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Simeon Vincent <svincent@gmail.com> (https://svincent.me)",
+  "license": "MIT",
+  "dependencies": {}
+}
